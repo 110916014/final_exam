@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+p{
+    color: black;
+    font-family: Helvetica;
+    font-size: 15px;
+    margin: 25px 0;
+}
+
